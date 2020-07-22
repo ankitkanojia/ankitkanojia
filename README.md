@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Describe the professional experience I had been working for the IT industry as a developer in which(Duties assigned), to gain more profound insight about developing, I have been working part-time as a full-stack developer. IN addition to this, I am not only a part-time article writer but also work as a blog writer(technical blog writer). Furthermore, to contribute with the developer community I am currently I am working as a contributor with them. As I have done manifold tasks efficiently and effectively I awarded twice with the employer of the month category in my present company.
+Hi there, I'm Ankit Kanojia, Describe the professional experience I had been working for the IT industry as a developer in which(Duties assigned), to gain more profound insight about developing, I have been working part-time as a full-stack developer. IN addition to this, I am not only a part-time article writer but also work as a blog writer(technical blog writer). Furthermore, to contribute with the developer community I am currently I am working as a contributor with them. As I have done manifold tasks efficiently and effectively I awarded twice with the employer of the month category in my present company.
 
 <!--
 **ankitkanojia/ankitkanojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
