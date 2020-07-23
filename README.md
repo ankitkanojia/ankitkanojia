@@ -4,7 +4,9 @@ Hi there, I'm Ankit Kanojia, Describe the professional experience I had been wor
 
 ------------
 
-<a href="https://www.c-sharpcorner.com/members/ankitkanojia"><img src="https://i.stack.imgur.com/WfoYi.png" width="40" /></a>&nbsp;&nbsp;<a href="https://dev.to/ankitkanojia"><img src="https://i.stack.imgur.com/45ftX.png" width="40" /></a>&nbsp;&nbsp;<a href="https://github.com/ankitkanojia"><img src="https://i.stack.imgur.com/Ue1Bh.jpg" width="40" /></a>&nbsp;&nbsp;<a href="https://www.fiverr.com/riowebs"><img src="https://i.stack.imgur.com/CfAvX.png" width="40" /></a>&nbsp;&nbsp;<a href="https://www.freelancer.in/u/weborchid"><img src="https://i.stack.imgur.com/L9dyQ.png" width="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankitkanojia"><img src="https://i.stack.imgur.com/mbmu0.png" width="40" /></a>
+<p align="center">
+<a target="_blank" href="https://www.c-sharpcorner.com/members/ankitkanojia"><img src="https://i.stack.imgur.com/WfoYi.png" width="80" /></a>&nbsp;&nbsp;<a href="https://dev.to/ankitkanojia" target="_blank" ><img src="https://i.stack.imgur.com/45ftX.png" width="80" /></a>&nbsp;&nbsp;<a href="https://github.com/ankitkanojia" target="_blank" ><img src="https://i.stack.imgur.com/Ue1Bh.jpg" width="80" /></a>&nbsp;&nbsp;<a target="_blank"  href="https://www.fiverr.com/riowebs"><img src="https://i.stack.imgur.com/CfAvX.png" width="80" /></a>&nbsp;&nbsp;<a href="https://www.freelancer.in/u/weborchid" target="_blank" ><img src="https://i.stack.imgur.com/L9dyQ.png" width="80" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankitkanojia" target="_blank" ><img src="https://i.stack.imgur.com/mbmu0.png" width="80" /></a>
+</p>
 
 <!--
 **ankitkanojia/ankitkanojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
