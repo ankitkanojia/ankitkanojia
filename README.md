@@ -1,4 +1,4 @@
-## About Me 👋
+## About Me 👋 
 
 Hi there, I'm Ankit Kanojia, Describe the professional experience I had been working for the IT industry as a developer in which(Duties assigned), to gain more profound insight about developing, I have been working part-time as freelancer role as a full-stack developer. 
 
@@ -10,7 +10,7 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 ![](https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact)
 
 
 <!--
