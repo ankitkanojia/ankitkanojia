@@ -31,7 +31,7 @@ IN addition to this, I am not only a part-time article writer but also work as a
 ## :trophy: Github Stats
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical">
-  <img style="max-width:500px"  align="left" src="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical" />
+  <img style="max-width:450px !important"  align="left" src="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact&theme=radical">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact&theme=radical" />
