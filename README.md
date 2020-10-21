@@ -30,11 +30,11 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 ## :trophy: Github Stats
 <div>
-<div width="500" style="max-width:500px;flot:left"><a href="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical" />
-</a>
- </div>
-<div width="300" style="max-width:300px;flot:left"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact&theme=radical">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact&theme=radical" />
-</a></div>
+ <a href="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical">
+   <img width="500"  heigth="195" align="left" src="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical" />
+ </a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact&theme=radical">
+   <img width="300"  heigth="195" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact&theme=radical" />
+ </a>
 </div>
+
