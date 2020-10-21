@@ -23,7 +23,6 @@ IN addition to this, I am not only a part-time article writer but also work as a
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/NodeJs.jpg" alt="NodeJs.jpg" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/posrgresql.jpg" alt="posrgresql.jpg" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/React.png" alt="React.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/terminal.png" alt="terminal.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSCode.png" alt="VSCode.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSStudio.png" alt="VSStudio.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/windows.png" alt="windows.png" />&nbsp;&nbsp;
