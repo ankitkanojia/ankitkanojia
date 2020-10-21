@@ -12,18 +12,23 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 ## 🧰 Languages and Tools:
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-
+ <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/bootstrap.png" alt="bootstrap.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/CSharp.jpg" alt="CSharp.jpg" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/Flutter.png" alt="Flutter.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/git.png" alt="git.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/github.png" alt="github.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/javascript.png" alt="javascript.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/MSSQL.jpg" alt="MSSQL.jpg" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/mysql.png" alt="mysql.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/NodeJs.jpg" alt="NodeJs.jpg" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/posrgresql.jpg" alt="posrgresql.jpg" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/React.png" alt="React.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/terminal.png" alt="terminal.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSCode.png" alt="VSCode.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSStudio.png" alt="VSStudio.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/windows.png" alt="windows.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/workbench.png" alt="workbench.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/Xamarin.png" alt="Xamarin.png" />&nbsp;&nbsp;
 </p>
 
 <br /><br />
