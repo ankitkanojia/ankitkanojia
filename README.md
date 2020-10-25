@@ -14,8 +14,10 @@ IN addition to this, I am not only a part-time article writer but also work as a
 <p>
  <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/bootstrap.png" alt="bootstrap.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/CSharp.jpg" alt="CSharp.jpg" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/Xamarin.png" alt="Xamarin.png" />&nbsp;&nbsp; 
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/Flutter.png" alt="Flutter.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/javascript.png" alt="javascript.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/javascript.png" alt="javascript.png" />&nbsp;&nbsp; 
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/React.png" alt="React.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/NodeJs.jpg" alt="NodeJs.jpg" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/git.png" alt="git.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/github.png" alt="github.png" />&nbsp;&nbsp;
@@ -25,9 +27,7 @@ IN addition to this, I am not only a part-time article writer but also work as a
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSStudio.png" alt="VSStudio.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/windows.png" alt="windows.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/workbench.png" alt="workbench.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/Xamarin.png" alt="Xamarin.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/posrgresql.jpg" alt="posrgresql.jpg" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/React.png" alt="React.png" />&nbsp;&nbsp;
 </p>
 
 <br /><br />
