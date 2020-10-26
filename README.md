@@ -32,6 +32,7 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 <br /><br />
 
+
 ## :trophy: Github Stats
 <div>
  <a href="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical">
@@ -44,16 +45,4 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 <br /><br />
 
-## :blue_book: Blog - Article Posts
 
-<p>
-   [How to use a wcf service without adding service reference](https://www.c-sharpcorner.com/article/how-to-use-a-wcf-service-without-adding-service-reference)
-   [I'm an inline-style link](https://www.c-sharpcorner.com/article/phone-number-authenticate-with-firebase)
-   [I'm an inline-style link](https://www.c-sharpcorner.com/article/how-to-deploy-node-js-web-application-on-heroku-server)
-   [I'm an inline-style link](https://www.c-sharpcorner.com/article/async-await-and-asynchronous-programming-in-mvc)
-   [I'm an inline-style link](https://www.c-sharpcorner.com/article/repository-and-unity-of-work-pattern-in-mvc)
-   [I'm an inline-style link](https://www.c-sharpcorner.com/blogs/how-to-select-xml-node-by-name-in-c-sharp)
-   [I'm an inline-style link](https://www.c-sharpcorner.com/article/crud-operation-using-react-redux-part-1)
-   [I'm an inline-style link](https://www.c-sharpcorner.com/article/reactcrud-operation-using-react-redux-part-two)
-   [I'm an inline-style link](https://www.c-sharpcorner.com/article/crud-operation-using-react-redux-part-three)
-</p>
