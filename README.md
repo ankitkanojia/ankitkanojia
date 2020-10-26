@@ -42,3 +42,9 @@ IN addition to this, I am not only a part-time article writer but also work as a
  </a>
 </div>
 
+<br /><br />
+## :blue_book: Blog - Article Posts
+
+<p>
+
+</p>
