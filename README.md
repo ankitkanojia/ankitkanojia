@@ -23,11 +23,11 @@ IN addition to this, I am not only a part-time article writer but also work as a
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/github.png" alt="github.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/MSSQL.jpg" alt="MSSQL.jpg" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/mysql.png" alt="mysql.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSCode.png" alt="VSCode.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSStudio.png" alt="VSStudio.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/windows.png" alt="windows.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/workbench.png" alt="workbench.png" />&nbsp;&nbsp;
 <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/posrgresql.jpg" alt="posrgresql.jpg" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSCode.png" alt="VSCode.png" />&nbsp;&nbsp;
+<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSStudio.png" alt="VSStudio.png" />&nbsp;&nbsp;
 </p>
 
 <br /><br />
