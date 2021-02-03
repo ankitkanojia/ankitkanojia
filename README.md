@@ -10,24 +10,34 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 <br />
 
-## 🧰 Languages and Tools:
-<p>
- <img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/bootstrap.png" alt="bootstrap.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/CSharp.jpg" alt="CSharp.jpg" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/Xamarin.png" alt="Xamarin.png" />&nbsp;&nbsp; 
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/Flutter.png" alt="Flutter.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/javascript.png" alt="javascript.png" />&nbsp;&nbsp; 
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/React.png" alt="React.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/NodeJs.jpg" alt="NodeJs.jpg" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/windows.png" alt="windows.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/git.png" alt="git.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/github.png" alt="github.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/workbench.png" alt="workbench.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/posrgresql.jpg" alt="posrgresql.jpg" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/MSSQL.jpg" alt="MSSQL.jpg" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/mysql.png" alt="mysql.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSCode.png" alt="VSCode.png" />&nbsp;&nbsp;
-<img src="https://github.com/ankitkanojia/ankitkanojia/blob/master/tools/VSStudio.png" alt="VSStudio.png" />&nbsp;&nbsp;
+### - Languages and Tools...
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/bootstrap.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/flutter.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/jquery.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/react.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/wpf.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/xamarin_android.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/xamarin_ios.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/languages/csharp.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/languages/css3.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/languages/csharp_dotnet.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/languages/js.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/misc/desktop.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/misc/web.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/services/dockerhub.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/services/gcp.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/services/npm.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/services/nuget.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/services/kubernetes.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/services/azure.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/tools/visualstudio_code.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/tools/visualstudio.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/tools/docker.svg" alt="html" style="vertical-align:top; margin:4px">    
 </p>
 
 <br /><br />
