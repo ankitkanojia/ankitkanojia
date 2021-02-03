@@ -14,7 +14,7 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 <p><a href="https://www.credential.net/e6426600-162c-467e-bf4a-419022686670?key=eef64565dbf574fdc348e0d5e992a2e1a130a7970cc5edcb606b34fa05552b55" target="_blank" ><img src="https://trueaim.edublogs.org/files/2018/06/Level-1-GoogEd-tyxico-1niukeq-740x738.png" width="80" /></a>&nbsp;&nbsp;<a href="https://images.youracclaim.com/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" target="_blank" ><img src="https://images.youracclaim.com/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" width="80" /></a></p>
 <br />
-
+ 
 ## - Languages and Tools...
 
 <p align="center">
