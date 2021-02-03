@@ -7,10 +7,10 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 ## - Find Me Elsewhere 
 
-<p align="center"><a target="_blank" href="https://www.c-sharpcorner.com/members/ankitkanojia"><img src="https://i.stack.imgur.com/WfoYi.png" width="80" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/5783700/ankitkanojia" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/social/stackoverflow.svg" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;<a href="https://www.freelancer.in/u/weborchid" target="_blank" ><img src="https://i.stack.imgur.com/L9dyQ.png" width="80" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankitkanojia" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/social/linkedin.svg" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;<a href="https://twitter.com/AnkitbKanojia" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/social/twitter.svg" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;<a href="skype:medybro98?chat" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/social/skype.svg" alt="html" style="vertical-align:top; margin:4px"></a>
+<p align="left"><a target="_blank" href="https://www.c-sharpcorner.com/members/ankitkanojia"><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/custom/C%23Corner.png" alt="fiverr" style="vertical-align:top; margin:4px" width="105"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/5783700/ankitkanojia" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/social/stackoverflow.svg" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;<a href="https://www.freelancer.in/u/weborchid" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/custom/freelancer.png" alt="fiverr" style="vertical-align:top; margin:4px" width="120"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankitkanojia" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/social/linkedin.svg" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;<a href="https://twitter.com/AnkitbKanojia" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/social/twitter.svg" alt="html" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;<a href="skype:medybro98?chat" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/social/skype.svg" alt="html" style="vertical-align:top; margin:4px"></a>
  &nbsp;&nbsp;<a href="https://dev.to/ankitkanojia" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/custom/dev.png" alt="dev.to" style="vertical-align:top; margin:4px" width="130"></a>
  &nbsp;&nbsp;<a href="https://www.fiverr.com/riowebs" target="_blank" ><img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/custom/fiverr.png" alt="fiverr" style="vertical-align:top; margin:4px" width="95"></a>
-<br />
+<br /><br />
 
 ## - Certifications / Awards
 
@@ -19,7 +19,7 @@ IN addition to this, I am not only a part-time article writer but also work as a
  
 ## - Languages and Tools...
 
-<p align="center">
+<p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/frameworks/bootstrap.svg" alt="html" style="vertical-align:top; margin:4px">    
