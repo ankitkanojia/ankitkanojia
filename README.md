@@ -12,6 +12,8 @@ IN addition to this, I am not only a part-time article writer but also work as a
 
 ### - Languages and Tools...
 
+<br />
+
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/ankitkanojia/ankitkanojia/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
@@ -43,7 +45,10 @@ IN addition to this, I am not only a part-time article writer but also work as a
 <br /><br />
 
 
-## :trophy: Github Stats
+### - Github Stats
+
+<br />
+
 <div>
  <a href="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical">
    <img width="500"  heigth="195" align="left" src="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical" />
