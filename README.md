@@ -50,9 +50,6 @@ IN addition to this, I am not only a part-time article writer but also work as a
 ## - Github Stats
 
 <div>
- <a href="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical">
-   <img width="500"  heigth="195" align="left" src="https://github-readme-stats.vercel.app/api?username=ankitkanojia&show_icons=true&theme=radical" />
- </a>
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact&theme=radical">
    <img width="300"  heigth="195" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkanojia&layout=compact&theme=radical" />
  </a>
